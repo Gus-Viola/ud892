@@ -1,0 +1,12 @@
+Some basic installs
+
+npm install --save-dev gulp
+
+npm install --save-dev gulp-sass //botei sem o save-dev
+npm install --save-dev gulp-autoprefixer
+npm install --save-dev browser-sync
+npm install -g eslint
+
+Check these:
+https://codereviewvideos.com/course/how-to-use-gulp/video/gulp-watch-example
+https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js#tasks-that-are-actually-useful

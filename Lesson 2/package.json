@@ -1,0 +1,23 @@
+{
+  "name": "gus.json",
+  "version": "1.0.0",
+  "description": "Just a json file",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-autoprefixer": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp-eslint": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gus Viola",
+  "license": "ISC"
+}
